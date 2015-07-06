@@ -5,7 +5,7 @@
 * Eric Dowty
 * Thomas Leskin - "Prototypal vs Classical Inheritance"
 * Minnie Lee - "Manipulate audio with the Web Audio API and Creative JS"
-* Dave Maurer
+* Dave Maurer - "What is that thing?"
 * Rick Bacci
 * Brett Grigsby
 * Sebastian Abondano - "Greatness Isn't Born. It's Grown."
